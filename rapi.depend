@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1576826535 source:d:\algprog\tugas\new folder\rapi\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+
